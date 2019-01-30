@@ -8,7 +8,7 @@ All dependencies have been extracted out to a single helpers file. No need to im
 
 Run the following in your project root:
 
-    composer require rappasoft/laravel-helpers
+    composer require zadil/laravel-helpers
 
 ## Documentation
 
