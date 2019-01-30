@@ -6,7 +6,7 @@
  * Time: 09:57
  */
 
-namespace Zadil;
+namespace Zadil\src;
 
 use ArrayAccess;
 use zadil\traits\Macroable;
