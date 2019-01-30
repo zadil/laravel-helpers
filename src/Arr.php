@@ -9,7 +9,6 @@
 namespace Zadil;
 
 use ArrayAccess;
-use InvalidArgumentException;
 use traits\Macroable;
 
 class Arr

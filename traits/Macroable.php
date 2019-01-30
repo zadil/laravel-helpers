@@ -1,6 +1,6 @@
 <?php
 
-namespace traits;
+namespace zadil\traits;
 
 use Closure;
 use ReflectionClass;
