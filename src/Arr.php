@@ -9,11 +9,9 @@
 namespace Zadil\src;
 
 use ArrayAccess;
-use zadil\traits\Macroable;
 
 class Arr
 {
-    use Macroable;
 
     /**
      * Determine whether the given value is array accessible.

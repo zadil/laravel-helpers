@@ -6,7 +6,7 @@
  * rappa819@gmail.com
  */
 
-use Zadil\Arr;
+use Zadil\src\Arr;
 
 if (!function_exists('append_config')) {
     /**
