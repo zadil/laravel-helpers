@@ -9,7 +9,7 @@
 namespace Zadil;
 
 use ArrayAccess;
-use traits\Macroable;
+use zadil\traits\Macroable;
 
 class Arr
 {
